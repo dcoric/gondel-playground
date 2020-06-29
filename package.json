@@ -4,7 +4,8 @@
   "version": "1.2.0",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack"
+    "build": "webpack",
+    "serve-data": "json-server db.json"
   },
   "dependencies": {
     "@gondel/core": "^1.2.0",
