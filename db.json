@@ -1,0 +1,236 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 2,
+      "label": "Swiss unlimited energy eau de cologne",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": true,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 3,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 4,
+      "label": "Maverick Chronograph 2",
+      "short-description": "Blue, 43 mm",
+      "price": "102 chf",
+      "sale": true,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 5,
+      "label": "Swiss unlimited energy eau de cologne 3",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": false,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 6,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 7,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 8,
+      "label": "Swiss unlimited energy eau de cologne",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": false,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 9,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": true,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 10,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": true,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 11,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 12,
+      "label": "Swiss unlimited energy eau de cologne",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": true,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 13,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 14,
+      "label": "Maverick Chronograph 2",
+      "short-description": "Blue, 43 mm",
+      "price": "102 chf",
+      "sale": true,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 15,
+      "label": "Swiss unlimited energy eau de cologne 3",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": true,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 16,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": true,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 17,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": true,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 18,
+      "label": "Swiss unlimited energy eau de cologne",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": false,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 19,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 20,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 21,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 22,
+      "label": "Swiss unlimited energy eau de cologne",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": true,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 23,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 24,
+      "label": "Maverick Chronograph 2",
+      "short-description": "Blue, 43 mm",
+      "price": "102 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 25,
+      "label": "Swiss unlimited energy eau de cologne 3",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": true,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 26,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    },
+    {
+      "id": 27,
+      "label": "Maverick Chronograph",
+      "short-description": "Blue, 43 mm",
+      "price": "100 chf",
+      "sale": false,
+      "product-photo": "img/8799444992030_celum_83429_560Wx490H.jpg"
+    },
+    {
+      "id": 28,
+      "label": "Swiss unlimited energy eau de cologne",
+      "short-description": "150 ml",
+      "price": "37 chf",
+      "sale": true,
+      "product-photo": "img/9032084717598_celum_71468_560Wx490H.jpg"
+    },
+    {
+      "id": 29,
+      "label": "Camper",
+      "short-description": "Red",
+      "price": "200 chf",
+      "sale": false,
+      "product-photo": "img/8868157292574_celum_129866_560Wx490H.jpg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.load-more--button {
+    border-radius: 6px;
+    background: #f0f0f0;
+    box-shadow:  6px 6px 11px #cccccc,
+    -6px -6px 11px #ffffff;
+    border: none;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.load-more--button:hover {
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffffff, #d8d8d8);
+    box-shadow:  6px 6px 11px #cccccc,
+    -6px -6px 11px #ffffff;
+    outline: 0;
+}
+
+.load-more--button:focus {
+    border-radius: 6px;
+    background: #f0f0f0;
+    box-shadow: inset 6px 6px 11px #cccccc,
+    inset -6px -6px 11px #ffffff;
+    outline: 0;
+}
+
+@media only screen and (min-device-width: 768px) {
+    .load-more--button {
+        font-size: 0.9rem;
+    }
+}

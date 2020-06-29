@@ -1,0 +1,76 @@
+.product {
+    border-radius: 50px;
+    background: #f2f2f2;
+    box-shadow:  20px 20px 60px #cecece,
+    -20px -20px 60px #ffffff;
+    padding: 45px;
+    width: 100%;
+    margin: 20px;
+    display: flex;
+
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: center;
+    cursor: pointer;
+    color: #4d5150;
+}
+
+.product:hover {
+    box-shadow:  20px 20px 30px #cecece,
+    -20px -20px 30px #ffffff;
+}
+
+.product .image .image--container {
+    background-color: transparent;
+    align-self: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.product .image .image--container img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.product .title--container {
+    align-self: center;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.product .title--container h3 {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.product .description--container {
+    font-size: 1.8em;
+    align-self: center;
+}
+
+.product .image .sale--container img {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    margin: 20px;
+    top: 0;
+    left: 0;
+}
+
+.product .image {
+    position: relative;
+}
+
+@media only screen and (min-device-width: 768px) {
+    .product {
+        max-width: 300px;
+    }
+    .product .title--container h3 {
+        font-size: 0.8rem;
+    }
+    .product .description--container {
+        font-size: 0.7rem;
+
+    }
+}
